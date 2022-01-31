@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_hellocomp_comps",
+  "info": {
+    "displayName": "comp",
+    "icon": "apple-alt"
+  },
+  "options": {},
+  "attributes": {
+    "trr": {
+      "type": "richtext"
+    }
+  }
+}

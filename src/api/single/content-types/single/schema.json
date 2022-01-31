@@ -1,0 +1,27 @@
+{
+  "kind": "singleType",
+  "collectionName": "singles",
+  "info": {
+    "singularName": "single",
+    "pluralName": "singles",
+    "displayName": "single"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "ttt": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "text"
+    }
+  }
+}
