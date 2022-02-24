@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "bipinbaj_portfolio_lists",
+  "info": {
+    "singularName": "bipinbaj-portfolio-list",
+    "pluralName": "bipinbaj-portfolio-lists",
+    "displayName": "Bipinbaj Portfolio List",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "Link": {
+      "type": "text"
+    },
+    "Github": {
+      "type": "text"
+    },
+    "ImageUrl": {
+      "type": "text"
+    }
+  }
+}
